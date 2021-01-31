@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T04:04:45.934Z" agent="5.0 (Windows)" etag="Desf38Jq_OApHO3_kqeV" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-31T04:05:48.748Z" agent="5.0 (Windows)" etag="b3E5l4walgAI9l8UBoX9" version="14.2.9" type="github" pages="4">
   <diagram id="SqcYx9mglfApEWGNxudf" name="StartPage">
     <mxGraphModel dx="1750" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="1zA4hSaHcft5ZVAsJC8Z-3" value="&lt;h1&gt;NAVBAR&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="o8Uk2YrWPqzGRcI_VERO-3" vertex="1">
           <mxGeometry x="610" y="80" width="40" height="20" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;Pagina 1&lt;br&gt;&lt;/div&gt;" link="Page-2" id="1zA4hSaHcft5ZVAsJC8Z-23">
+        <UserObject label="&lt;div&gt;Pagina 1&lt;br&gt;&lt;/div&gt;" id="1zA4hSaHcft5ZVAsJC8Z-23">
           <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#9673a6;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#e1d5e7;whiteSpace=wrap;" parent="o8Uk2YrWPqzGRcI_VERO-3" vertex="1">
             <mxGeometry x="1020" y="72.5" width="110" height="27.5" as="geometry" />
           </mxCell>
